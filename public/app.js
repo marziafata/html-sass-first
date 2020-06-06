@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/marziafata/Desktop/Boolean/Playground/prima-app/src/app.js */"./src/app.js");
-module.exports = __webpack_require__(/*! /Users/marziafata/Desktop/Boolean/Playground/prima-app/src/app.scss */"./src/app.scss");
+__webpack_require__(/*! /Users/marziafata/Desktop/Boolean/Playground/37-sass/prima-app/src/app.js */"./src/app.js");
+module.exports = __webpack_require__(/*! /Users/marziafata/Desktop/Boolean/Playground/37-sass/prima-app/src/app.scss */"./src/app.scss");
 
 
 /***/ })
