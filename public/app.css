@@ -1,8 +1,4 @@
-body {
-  background-color: grey;
+h2,
+h3 {
+  color: blue;
 }
-
-h1 {
-  color: red;
-}
-

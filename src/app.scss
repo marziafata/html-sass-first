@@ -1,7 +1,5 @@
-body {
-    background-color: grey;
-}
+$colore_titoli: green;
 
-h1 {
-    color: red;
+h2, h3 {
+    color: $colore_titoli;
 }
